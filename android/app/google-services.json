@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "62882562168",
+    "firebase_url": "https://personalitytest-ab4c4-default-rtdb.firebaseio.com",
+    "project_id": "personalitytest-ab4c4",
+    "storage_bucket": "personalitytest-ab4c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62882562168:android:d3f7f4753bd2974cd2ed8d",
+        "android_client_info": {
+          "package_name": "com.example.personalitytest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZcKYNhwr62UTFPyGrbKb5B3FIw2h5LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
